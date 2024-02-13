@@ -1,0 +1,5 @@
+Train_MSE: 0.024029521625283115
+Train_RMSE: 0.15501458520179034
+Test_MSE: 0.16503226740020469
+Test_RMSE: 0.4062416367141663
+Model_Params: {'memory': None, 'steps': [('standardscaler', StandardScaler()), ('svr', SVR(C=2500, epsilon=0.0005))], 'verbose': False, 'standardscaler': StandardScaler(), 'svr': SVR(C=2500, epsilon=0.0005), 'standardscaler__copy': True, 'standardscaler__with_mean': True, 'standardscaler__with_std': True, 'svr__C': 2500, 'svr__cache_size': 200, 'svr__coef0': 0.0, 'svr__degree': 3, 'svr__epsilon': 0.0005, 'svr__gamma': 'scale', 'svr__kernel': 'rbf', 'svr__max_iter': -1, 'svr__shrinking': True, 'svr__tol': 0.001, 'svr__verbose': False}

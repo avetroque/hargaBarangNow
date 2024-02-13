@@ -1,0 +1,11 @@
+SVR
+Average Training MSE: 0.1906
+Average Training RMSE: 0.3311
+Average Testing MSE: 0.0734
+Average Test RMSE: 0.1812
+
+GPR
+Average Training MSE: 0.1150
+Average Training RMSE: 0.2070
+Average Testing MSE: 0.0130
+Average Test RMSE: 0.0911

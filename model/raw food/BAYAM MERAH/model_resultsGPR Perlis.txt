@@ -1,0 +1,5 @@
+Train_MSE: 6.714664697824533e-17
+Train_RMSE: 8.194305765484061e-09
+Test_MSE: 0.018829224265144683
+Test_RMSE: 0.13721962055458645
+Model_Params: {'alpha': 1e-10, 'copy_X_train': True, 'kernel__k1': RBF(length_scale=15), 'kernel__k2': Matern(length_scale=1, nu=1), 'kernel__k1__length_scale': 15, 'kernel__k1__length_scale_bounds': (1e-05, 100000.0), 'kernel__k2__length_scale': 1, 'kernel__k2__length_scale_bounds': (1e-05, 100000.0), 'kernel__k2__nu': 1, 'kernel': RBF(length_scale=15) + Matern(length_scale=1, nu=1), 'n_restarts_optimizer': 0, 'normalize_y': False, 'optimizer': 'fmin_l_bfgs_b', 'random_state': None}
